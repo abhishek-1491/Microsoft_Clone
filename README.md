@@ -1,4 +1,8 @@
 # Microsoft_Clone
-![Screenshot (175)](https://user-images.githubusercontent.com/83855601/160060656-25d01af1-afa5-44b2-80f1-230d2bf6cdd3.png)
-![Screenshot (176)](https://user-images.githubusercontent.com/83855601/160060686-cfe6bb94-ec58-4671-961b-f045183a9191.png)
-![Screenshot (174)](https://user-images.githubusercontent.com/83855601/160060705-4e5f266b-85e1-44f8-b7e2-463a80df0c58.png)
+
+![Screenshot (177)](https://user-images.githubusercontent.com/83855601/160061034-26a1a4a9-81f3-486b-b32d-6f372b2df69d.png)
+
+![Screenshot (178)](https://user-images.githubusercontent.com/83855601/160061041-e66b5de3-aa9c-41eb-9127-45834e3b8800.png)
+
+
+![Screenshot (179)](https://user-images.githubusercontent.com/83855601/160061065-05104578-b934-4a83-ab39-1e91a906b224.png)
